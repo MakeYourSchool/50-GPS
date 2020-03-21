@@ -1,6 +1,6 @@
 GPS
 ----
-*(Seeed Studio Grove – Dust GPS)*
+*(Seeed Studio Grove – GPS)*
 
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/50_gps-1024x1024.jpg width=400px>
 
